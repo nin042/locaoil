@@ -1,0 +1,2 @@
+2016/07/15 00:12:32 [alert] 5484#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/15 00:13:59 [alert] 5620#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
