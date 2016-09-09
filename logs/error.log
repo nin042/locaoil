@@ -1,0 +1,14 @@
+2016/07/15 00:12:32 [alert] 5484#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/15 00:13:59 [alert] 5620#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/15 00:38:48 [alert] 16792#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/15 00:39:54 [alert] 17028#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/15 21:12:47 [alert] 18919#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/15 21:15:20 [alert] 19182#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/15 21:17:40 [alert] 19854#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/15 21:32:56 [alert] 20659#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/15 21:44:13 [alert] 20841#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/15 22:12:01 [alert] 21508#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/15 23:51:05 [alert] 13938#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/15 23:59:42 [alert] 14374#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/16 00:11:34 [alert] 15715#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
+2016/07/16 00:14:22 [alert] 16107#0: lua_code_cache is off; this will hurt performance in /home/nin042/repos/locaoil/nginx.conf.compiled:16
