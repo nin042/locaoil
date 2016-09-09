@@ -25,6 +25,9 @@ luac.out
 *.def
 *.exp
 
+# logs
+**/logs/
+
 # idea
 **/.idea/
 
