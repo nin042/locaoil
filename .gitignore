@@ -25,6 +25,9 @@ luac.out
 *.def
 *.exp
 
+# idea
+**/.idea/
+
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
