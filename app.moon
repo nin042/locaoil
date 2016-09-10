@@ -10,4 +10,5 @@ class App extends lapis.Application
   [index: "/"]: =>
     @html ->
       a href: @url_for("login"), "log in"
+      a href: @url_for("login"), "log in"
 
